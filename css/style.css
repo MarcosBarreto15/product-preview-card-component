@@ -123,7 +123,7 @@ h1 {
    word-spacing: 0.0625rem;
 }
 
-.add-to-cart:hover {
+.add-to-cart:hover, .add-to-cart:focus {
     background-color: var(--green-700);
 }
 
